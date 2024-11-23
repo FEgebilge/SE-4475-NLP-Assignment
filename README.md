@@ -95,9 +95,9 @@ Raw_texts/
 
 ## Project Structure
 ```
-turkish-text-classification/
+SE-4475-NLP-Assignment/
 ├── data/
-│   ├── Raw_texts/
+│   ├── raw_texts/
 │   │   ├── 1/
 │   │   ├── 2/
 │   │   ├── 3/
