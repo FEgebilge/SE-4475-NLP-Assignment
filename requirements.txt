@@ -3,3 +3,4 @@ pandas
 scikit-learn
 py4j
 jpype1
+matplotlib
