@@ -29,6 +29,8 @@ Raw_texts/
 - `pandas`
 - `sklearn`
 - `py4j`
+- `jpype1`
+- `matplotlib`
 
 ### Other Requirements
 - Zemberek NLP library (`zemberek-full.jar`) for Turkish text processing.
