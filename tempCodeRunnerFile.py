@@ -1,0 +1,2 @@
+
+            # Skip non-text files
